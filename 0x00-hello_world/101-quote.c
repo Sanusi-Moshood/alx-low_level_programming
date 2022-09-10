@@ -2,6 +2,7 @@
 /*
  * main -Prints a text
  *
+ * Description: mmain function
  * Return: Always 1 (Success)
  */
 int main(void)
